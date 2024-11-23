@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/28670/Desktop/C_fft/build",
+  "command": "C:\\Users\\28670\\scoop\\apps\\mingw\\current\\bin\\gcc.exe  @CMakeFiles/fft.dir/includes_C.rsp -g -o CMakeFiles\\fft.dir\\FFTImplementationCallback.c.obj -c C:\\Users\\28670\\Desktop\\C_fft\\FFTImplementationCallback.c",
+  "file": "C:/Users/28670/Desktop/C_fft/FFTImplementationCallback.c",
+  "output": "CMakeFiles/fft.dir/FFTImplementationCallback.c.obj"
+},
+{
+  "directory": "C:/Users/28670/Desktop/C_fft/build",
+  "command": "C:\\Users\\28670\\scoop\\apps\\mingw\\current\\bin\\gcc.exe  @CMakeFiles/fft.dir/includes_C.rsp -g -o CMakeFiles\\fft.dir\\fft2.c.obj -c C:\\Users\\28670\\Desktop\\C_fft\\fft2.c",
+  "file": "C:/Users/28670/Desktop/C_fft/fft2.c",
+  "output": "CMakeFiles/fft.dir/fft2.c.obj"
+},
+{
+  "directory": "C:/Users/28670/Desktop/C_fft/build",
+  "command": "C:\\Users\\28670\\scoop\\apps\\mingw\\current\\bin\\gcc.exe  @CMakeFiles/fft.dir/includes_C.rsp -g -o CMakeFiles\\fft.dir\\fft2_initialize.c.obj -c C:\\Users\\28670\\Desktop\\C_fft\\fft2_initialize.c",
+  "file": "C:/Users/28670/Desktop/C_fft/fft2_initialize.c",
+  "output": "CMakeFiles/fft.dir/fft2_initialize.c.obj"
+},
+{
+  "directory": "C:/Users/28670/Desktop/C_fft/build",
+  "command": "C:\\Users\\28670\\scoop\\apps\\mingw\\current\\bin\\gcc.exe  @CMakeFiles/fft.dir/includes_C.rsp -g -o CMakeFiles\\fft.dir\\fft2_terminate.c.obj -c C:\\Users\\28670\\Desktop\\C_fft\\fft2_terminate.c",
+  "file": "C:/Users/28670/Desktop/C_fft/fft2_terminate.c",
+  "output": "CMakeFiles/fft.dir/fft2_terminate.c.obj"
+},
+{
+  "directory": "C:/Users/28670/Desktop/C_fft/build",
+  "command": "C:\\Users\\28670\\scoop\\apps\\mingw\\current\\bin\\gcc.exe  @CMakeFiles/fft.dir/includes_C.rsp -g -o CMakeFiles\\fft.dir\\main.c.obj -c C:\\Users\\28670\\Desktop\\C_fft\\main.c",
+  "file": "C:/Users/28670/Desktop/C_fft/main.c",
+  "output": "CMakeFiles/fft.dir/main.c.obj"
+}
+]

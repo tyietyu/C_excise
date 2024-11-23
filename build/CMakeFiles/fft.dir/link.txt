@@ -1,0 +1,3 @@
+C:\Users\28670\scoop\apps\cmake\3.27.3\bin\cmake.exe -E rm -f CMakeFiles\fft.dir/objects.a
+C:\Users\28670\scoop\apps\mingw\current\bin\ar.exe qc CMakeFiles\fft.dir/objects.a @CMakeFiles\fft.dir\objects1.rsp
+C:\Users\28670\scoop\apps\mingw\current\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\fft.dir/objects.a -Wl,--no-whole-archive -o fft.exe -Wl,--out-implib,libfft.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fft.dir\linkLibs.rsp
